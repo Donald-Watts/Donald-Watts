@@ -3,7 +3,7 @@ Powered by Systems. Driven by Intuition.
 
 Donald Watts | Founder, ADLS Consulting
 
-Parent to ADLS Creations, Big Deals, Canamind.ai, PhaseSync, JIA Cellular Map, Ontosophic AI.
+Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, JIA Cellular Map, Ontosophic AI.
 
 
 # What We Do: 
@@ -25,7 +25,7 @@ Every other venture is living proof of our philosophy.
 
 Big Deals: Revenue-first, lightweight Shopify AI-fueling future innovation.
 
-Canamind.ai: Personalized cannabis recommendations powered by AI and a proprietary scoring algorithm.
+Cannamind.ai: Personalized cannabis recommendations powered by AI and a proprietary scoring algorithm.
 
 PhaseSync: Universal orchestration for AI and developers (CLI, IDE, and rules-based).
 
