@@ -5,7 +5,7 @@ I architect AI/ML development workflows that balance creative freedom with struc
 
 # About/Bio
 
-With less than a year of formal coding experience, I’ve built high-level orchestration systems (like PhaseSync) that are actively used to reduce workflow entropy in AI/ML pipelines. My approach fuses symbolic tagging, recursive architecture, and phase-aware protocol enforcement — ensuring that both human and AI contributors can operate predictably at scale.
+With less than a year of formal coding experience, I’ve built high-level orchestration systems (like PhaseSync) that are actively used to reduce workflow entropy in AI/ML pipelines. My approach fuses symbolic tagging, recursive architecture, and phase-aware protocol enforcement — ensuring that both human and AI contributors can operate predictably at scale. 
 
 I’m the creator of Ontosophic AI — a cognitive system designed to self-regulate task flow across multiple AI agents. I focus on building frameworks that solve the real bottlenecks of AI: not just model performance, but how the work gets done.
 
@@ -15,7 +15,7 @@ Powered by Systems. Driven by Intuition.
 
 Donald Watts | Founder, ADLS Consulting
 
-Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, JIA Cellular Map, Ontosophic AI.
+Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, Idea Phase, JIA Cellular Map, Ontosophic AI.
 
 
 # What We Do: 
