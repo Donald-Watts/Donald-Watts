@@ -65,11 +65,11 @@ Non-Reliance: We build for self-validation; our work speaks for itself.
 
 # We are:
 
-Builders, not beggars.
+Builders.
 
-Recursive thinkers, not reactionary coders.
+Recursive thinkers.
 
-Strategic executors, not buzzword-chasers.
+Strategic executors.
 
 Documenters before deployers.
 
