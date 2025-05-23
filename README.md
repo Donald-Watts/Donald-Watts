@@ -15,7 +15,7 @@ Powered by Systems. Driven by Intuition.
 
 Donald Watts | Founder, ADLS Consulting
 
-Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, Idea Phase, JIA Cellular Map, Ontosophic AI.
+Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, Ideaphase.app, JIA Cellular Map, Ontosophic AI.
 
 
 # What We Do: 
