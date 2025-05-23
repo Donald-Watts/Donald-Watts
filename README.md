@@ -41,6 +41,8 @@ Cannamind.ai: Personalized cannabis recommendations powered by AI and a propriet
 
 PhaseSync: Universal orchestration for AI and developers (CLI, IDE, and rules-based).
 
+Idea Phase.app: A lightweight symbolic AI architecture tool that converts raw ideas into structured, tagged, and AI-readable documents. 
+
 JIA Cellular Map: Medically-aligned AI simulation for autoimmune inflammation and treatment.
 
 Ontosophic AI: Symbolic cognition engine with crypto-ledger logic, an ethics core, and a recursive agent system.
