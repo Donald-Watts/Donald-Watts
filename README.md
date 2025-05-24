@@ -35,17 +35,17 @@ Every other venture is living proof of our philosophy.
 
 # The Portfolio: (In Motion)
 
-Big Deals: Revenue-first, lightweight Shopify AI-fueling future innovation.
+BigDealsllc610.com : Revenue-first, lightweight Shopify AI-fueling future innovation. 
 
-Cannamind.ai: Personalized cannabis recommendations powered by AI and a proprietary scoring algorithm.
+Cannamind.ai : Personalized cannabis wellness and recommendations app powered by AI and a proprietary scoring algorithm.  
 
-PhaseSync: Universal orchestration for AI and developers (CLI, IDE, and rules-based).
+PhaseSync : Universal orchestration for AI and developers (CLI, IDE, and rules-based). In active development
 
-Idea Phase.app: A lightweight symbolic AI architecture tool that converts raw ideas into structured, tagged, and AI-readable documents. 
+Idea Phase.app : A lightweight symbolic AI architecture tool that converts raw ideas into structured, tagged, and AI-readable documents. Free demo- working weights and tags.  
 
 JIA Cellular Map: Medically-aligned AI simulation for autoimmune inflammation and treatment.
 
-Ontosophic AI: Symbolic cognition engine with crypto-ledger logic, an ethics core, and a recursive agent system.
+Ontosophic AI : Symbolic cognition engine with crypto-ledger logic, an ethics core, and a recursive agent system.
 
 Each project supports and accelerates the next. This is strategy in action. This is sustainable scaling.
 
