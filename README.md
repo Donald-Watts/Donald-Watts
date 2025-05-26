@@ -1,119 +1,58 @@
-# AI Workflow Architect | Symbolic Systems Engineer | Entropy Reduction Specialist #
+# Donald Watts  
+**AI Workflow Architect  |  Symbolic Systems Engineer  |  Entropy-Reduction Specialist**
 
-Hello, I'm Donald Watts
-I architect AI/ML development workflows that balance creative freedom with structural integrity using symbolic orchestration systems.
-
-# About/Bio
-
-With less than a year of formal coding experience, I’ve built high-level orchestration systems (like PhaseSync) that are actively used to reduce workflow entropy in AI/ML pipelines. My approach fuses symbolic tagging, recursive architecture, and phase-aware protocol enforcement — ensuring that both human and AI contributors can operate predictably at scale. 
-
-I’m the creator of Ontosophic AI — a cognitive system designed to self-regulate task flow across multiple AI agents. I focus on building frameworks that solve the real bottlenecks of AI: not just model performance, but how the work gets done.
-
- # ADLS #
- 
-Powered by Systems. Driven by Intuition. 
-
-Donald Watts | Founder, ADLS Consulting
-
-Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, ideaphase.app, JIA Cellular Map, Ontosophic AI.
+I build frameworks that keep creative chaos from turning into tech debt.
 
 
-# What We Do: 
 
-ADLS is more than a consultancy-it is an engine of recursive thinking and applied intelligence.
-From streamlining logistics and developing AI tooling to simulating autoimmune behavior at the cellular level, our focus is consistent:
-We don’t build features. We build frameworks.
+## TL;DR
+* **PhaseSync & Ontosophic AI** – orchestration engines that make multi-agent AI systems behave. 
+* **VIBE-Lock** – dev-shield CLI for watermarking, TPO, and obfuscation.  
+* **Cannamind.ai & JIA Cellular Map** – applied AI for wellness and medical simulation.  
 
-
-# Every ADLS system is guided by a core principle:
-
-Identify the problem. Solve it recursively. Build systems that require minimal intervention.
-ADLS Consulting is the operational core.
-ADLS Creations is the intellectual property engine.
-Every other venture is living proof of our philosophy.
+If a project kills friction and scales clean, my fingerprints are on it. 
 
 
-# The Portfolio: (In Motion)
 
-BigDealsllc610.com : Local revenue-first, lightweight Shopify AI-fueling future innovation. 
+## What I Do
+| Area | Quick Take |
 
-Cannamind.ai : (Private dev.) Personalized cannabis wellness and recommendations app powered by AI and a proprietary scoring algorithm.  
+| **Workflow Architecture** | Design symbolic tagging + phase-aware dev pipelines that let humans & models ship predictably. |
 
-PhaseSync : Universal orchestration for AI and developers (CLI, IDE, and rules-based). In active development 
+| **Cognitive Systems** | Ontosophic AI: a self-regulating brain that routes tasks across agents. |
 
-ideaphase.app : (Private dev.) A lightweight symbolic AI architecture tool that converts raw ideas into structured, tagged, and AI-readable documents. Free demo- working weights and tags.  
-
-JIA Cellular Map : Medically-aligned AI simulation for autoimmune inflammation and treatment.
-
-VIBE-Lock : A *developer shield*—CLI tools, libraries, and workflow recipes that watermark, timestamp, and obfuscate your code, text, and designs so they stay **yours**.
-
-Ontosophic AI : (Private dev.) Symbolic cognition engine with crypto-ledger logic, an ethics core, and a recursive agent system.
-
-Each project supports and accelerates the next. This is strategy in action. This is sustainable scaling.
+| **IP Defense** | VIBE-Lock: CLI tools that keep your code from becoming someone else’s “training data.” |
 
 
-# How We Think:
 
-Recursive Logic: We iterate solutions until the system itself reveals the optimal path.
-
-Symbolic Precision: We architect meaning with clean, encoded representations-not just data.
-
-Cognitive Resonance: Our systems align internally before they communicate externally.
-
-Non-Reliance: We build for self-validation; our work speaks for itself.
-
-
-# Who We Are (And Who We’re Not) 
-
-# We are:
-
-Builders.
-
-Recursive thinkers.
-
-Strategic executors.
-
-Documenters before deployers.
-
-Collaborators, not employers.
-
-# We are not:
-
-Here to “hire”-we partner with those who live their craft.
-
-Dependent on investor handouts or traditional salary pipelines.
-
-Interested in hierarchy for its own sake.
-
-If you join ADLS, you enter a recursive loop of mastery-people working together at the edge of their abilities. We don’t clock hours; we scale expertise.
- Built by practitioners, not by those waiting for permission.
- 
-
-“If you can’t bootstrap your idea with what you already know and have, it probably wasn’t worth building to begin with.”
+## ADLS Ecosystem<br>(Everything feeds everything)
+| Project | Status | One-Liner |
+|---------|--------|-----------|
+| **PhaseSync** |  Active | Universal CLI + IDE orchestration, rules before code. |
+| **VIBE-Lock** |  Public | Watermark, timestamp, obfuscate—keep your signal sovereign. |
+| **Cannamind.ai** |  Private Dev | Personalized cannabis wellness, AI-scored. |
+| **ideaphase.app** |  Private Demo | Turns napkin ideas into tagged, AI-readable briefs. |
+| **JIA Cellular Map** |  R&D | Auto-immune response simulator at cell resolution. |
+| **BigDealsLLC610** |  Live | Local Shopify engine funding the R&D loop. |
 
 
-# Philosophy:
 
-ADLS stands for:
+## Operating Principles
+* **Recursive Logic** – iterate until the system shows the answer.  
+* **Symbolic Precision** – encode meaning, not just data.  
+* **Cognitive Resonance** – align internals before shipping externals.  
+* **Non-Reliance** – frameworks that self-validate; humans supervise, not babysit.
 
-Applied Intelligence
 
-Documented Frameworks
 
-Logical Recursion
+## Culture: Who Thrives Here
+  **Builders** · **Recursive thinkers** · **Documentation first**  
+**NO** Seat-warmers · Hierarchy lovers · “Raise cash first, figure it out later”
 
-Strategic Scaling
+> “If you can’t bootstrap with what you already have, maybe it isn’t worth building yet.”
 
-We don’t do hype. We do facts, functions, and forward motion.
 
-We build clean. We move smart. We respect each other’s gifts.
 
-# A Final Note to Collaborators #
+### Let’s Connect
+PR, issue, or DM—if you live for clean architectures and fearless shipping, we’ll vibe.
 
-You’re not joining a founder chasing attention. You’re joining a system already in motion.
-
-We’re not here to raise capital to begin; we began long ago. Our focus is on finishing well.
-
-ADLS is for those who do the work because it is their calling-finally routed into a system that matches their level.
-
-If that resonates with you, welcome to ADLS.
