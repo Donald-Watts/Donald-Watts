@@ -11,11 +11,11 @@ I’m the creator of Ontosophic AI — a cognitive system designed to self-regul
 
  # ADLS #
  
-Powered by Systems. Driven by Intuition.
+Powered by Systems. Driven by Intuition. 
 
 Donald Watts | Founder, ADLS Consulting
 
-Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, Ideaphase.app, JIA Cellular Map, Ontosophic AI.
+Parent to ADLS Creations, Big Deals, Cannamind.ai, PhaseSync, ideaphase.app, JIA Cellular Map, Ontosophic AI.
 
 
 # What We Do: 
@@ -35,11 +35,11 @@ Every other venture is living proof of our philosophy.
 
 # The Portfolio: (In Motion)
 
-BigDealsllc610.com : Revenue-first, lightweight Shopify AI-fueling future innovation. 
+BigDealsllc610.com : Local revenue-first, lightweight Shopify AI-fueling future innovation. 
 
 Cannamind.ai : (Private dev.) Personalized cannabis wellness and recommendations app powered by AI and a proprietary scoring algorithm.  
 
-PhaseSync : Universal orchestration for AI and developers (CLI, IDE, and rules-based). In active development
+PhaseSync : Universal orchestration for AI and developers (CLI, IDE, and rules-based). In active development 
 
 ideaphase.app : (Private dev.) A lightweight symbolic AI architecture tool that converts raw ideas into structured, tagged, and AI-readable documents. Free demo- working weights and tags.  
 
