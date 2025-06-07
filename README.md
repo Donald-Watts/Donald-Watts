@@ -31,7 +31,7 @@ If a project kills friction and scales clean, my fingerprints are on it.
 | **PhaseSync** |  Active | Universal CLI + IDE orchestration, rules before code. |
 | **VIBE-Lock** |  Public | Watermark, timestamp, obfuscate—keep your signal sovereign. |
 | **Cannamind.ai** |  Private Dev | Personalized cannabis wellness, AI-scored. |
-| **ideaphase.app** |  Private Demo | Turns napkin ideas into tagged, AI-readable briefs. |
+| **ideaphase** |  Private Demo | Turns napkin ideas into tagged, AI-readable briefs. |
 | **JIA Cellular Map** |  R&D | Auto-immune response simulator at cell resolution. |
 | **BigDealsLLC610** |  Live | Local Shopify engine funding the R&D loop. |
 
