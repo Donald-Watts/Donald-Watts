@@ -6,7 +6,7 @@ I build frameworks that keep creative chaos from turning into tech debt.
 
 
 ## TL;DR
-* **PhaseSync & Ontosophic AI** – orchestration engines that make multi-agent AI systems behave. 
+* **PhaseSync & Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
 * **VIBE-Lock** – dev-shield CLI for watermarking, TPO, and obfuscation.  
 * **Cannamind.ai & JIA Cellular Map** – applied AI for wellness and medical simulation.  
 
@@ -19,7 +19,7 @@ If a project kills friction and scales clean, my fingerprints are on it.
 
 | **Workflow Architecture** | Design symbolic tagging + phase-aware dev pipelines that let humans & models ship predictably. |
 
-| **Cognitive Systems** | Ontosophic AI: a self-regulating brain that routes tasks across agents. |
+| **Cognitive Systems** | Ontos AI: a self-regulating brain that routes tasks across agents. |
 
 | **IP Defense** | VIBE-Lock: CLI tools that keep your code from becoming someone else’s “training data.” |
 
