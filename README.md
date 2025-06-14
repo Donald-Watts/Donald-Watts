@@ -6,7 +6,7 @@ I build frameworks that keep creative chaos from turning into tech debt.
 
 
 ## TL;DR
-* **PhaseSync & Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
+* **PhaseSync, Ideaphase, & Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
 * **VIBE-Lock** – dev-shield CLI for watermarking, TPO, and obfuscation.  
 * **Cannamind.ai & JIA Cellular Map** – applied AI for wellness and medical simulation.  
 
@@ -19,16 +19,16 @@ If a project kills friction and scales clean, my fingerprints are on it.
 
 | **Workflow Architecture** | Design symbolic tagging + phase-aware dev pipelines that let humans & models ship predictably. |
 
-| **Cognitive Systems** | Ontos AI: a self-regulating brain that routes tasks across agents. |
+| **Cognitive Systems** | Ontos AI: a self-regulater who routes tasks across agents. |
 
-| **IP Defense** | VIBE-Lock: CLI tools that keep your code from becoming someone else’s “training data.” |
+| **IP Defense** | VIBE-Lock: A Open-Source CLI tool that keep your code from becoming someone else’s “training data.” If it's not too late. MIT license  | 
 
 
 
 ## ADLS Ecosystem<br>(Everything feeds everything)
 | Project | Status | One-Liner |
 |---------|--------|-----------|
-| **PhaseSync** |  Active | Universal CLI + IDE orchestration, rules before code. |
+| **PhaseSync** |  Private | Universal CLI + IDE orchestration, rules before code. (v0.1 & v0.2 models) |
 | **VIBE-Lock** |  Public | Watermark, timestamp, obfuscate—keep your signal sovereign. |
 | **Cannamind.ai** |  Private Dev | Personalized cannabis wellness, AI-scored. |
 | **ideaphase** |  Private Demo | Turns napkin ideas into tagged, AI-readable briefs. |
