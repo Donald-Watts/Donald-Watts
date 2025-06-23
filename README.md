@@ -34,7 +34,7 @@ If a project kills friction and scales clean, my fingerprints are on it.
 | **ideaphase** |  Private Alpha Demo | Turns napkin ideas into tagged, AI-readable briefs. |
 | **JIA Cellular Map** |  R&D | Auto-immune response simulator at cell resolution. |
 | **BigDealsLLC610** |  Live | Local Shopify engine funding the R&D loop. |
-| **Bdprobuild.com** |  Live |  AI generated responses accurately tuned to your specific shopping and project needs. |
+| **Bdprobuild.com** |  Live Alpha Demo |  AI generated responses accurately tuned to your specific shopping and project needs. |
 
 
 ## Operating Principles
