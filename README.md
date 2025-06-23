@@ -9,7 +9,7 @@ I build frameworks that keep creative chaos from turning into tech debt.
 * **PhaseSync, Ideaphase, & Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
 * **VIBE-Lock** – dev-shield CLI for watermarking, TPO, and obfuscation.  
 * **Cannamind.ai & JIA Cellular Map** – applied AI for wellness and medical simulation.  
-
+* **Bdprobuild.com** - AI generated responses accurately tuned to your specific shopping and project needs.
 If a project kills friction and scales clean, my fingerprints are on it. 
 
 
@@ -21,7 +21,7 @@ If a project kills friction and scales clean, my fingerprints are on it.
 
 | **Cognitive Systems** | Ontos AI: a self-regulater who routes tasks across agents. |
 
-| **IP Defense** | VIBE-Lock: A Open-Source CLI tool that keep your code from becoming someone else’s “training data.” If it's not too late. MIT license  | 
+| **IP Defense** | VIBE-Lock: A CLI tool that keep your code from becoming someone else’s “training data.” If it's not too late. private license  | 
 
 
 
@@ -29,12 +29,12 @@ If a project kills friction and scales clean, my fingerprints are on it.
 | Project | Status | One-Liner |
 |---------|--------|-----------|
 | **PhaseSync** |  Private | Universal CLI + IDE orchestration, rules before code. (v0.1 & v0.2 models) |
-| **VIBE-Lock** |  Public | Watermark, timestamp, obfuscate—keep your signal sovereign. |
+| **VIBE-Lock** |  Private | Watermark, timestamp, obfuscate—keep your signal sovereign. |
 | **Cannamind.ai** |  Private Dev | Personalized cannabis wellness, AI-scored. |
-| **ideaphase** |  Private Demo | Turns napkin ideas into tagged, AI-readable briefs. |
+| **ideaphase** |  Private Alpha Demo | Turns napkin ideas into tagged, AI-readable briefs. |
 | **JIA Cellular Map** |  R&D | Auto-immune response simulator at cell resolution. |
 | **BigDealsLLC610** |  Live | Local Shopify engine funding the R&D loop. |
-
+| **Bdprobuild.com** |  Live |  AI generated responses accurately tuned to your specific shopping and project needs. |
 
 
 ## Operating Principles
