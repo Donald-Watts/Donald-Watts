@@ -6,7 +6,7 @@ I build frameworks that keep creative chaos from turning into tech debt.
 
 
 ## TL;DR
-* **PhaseSync, Ideaphase, & Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
+* **PhaseSync, Ideaphase, & other services contribute to Ontos AI** – orchestration engines that make multi-agent AI systems behave. 
 * **VIBE-Lock** – dev-shield CLI for watermarking, TPO, and obfuscation.  
 * **Cannamind.ai & JIA Cellular Map** – applied AI for wellness and medical simulation.  
 * **Bdprobuild.com** - AI generated responses accurately tuned to your specific shopping and project needs.
