@@ -19,7 +19,7 @@ New Commons
   ↺ (repeat)
 
 > "Build to be bought, not to last."
- -In other words: be sharp, useful, and disruptive..
  
-### DM—if you live for clean architectures and fearless shipping, we’ll vibe.
+ 
+### DM—if you live for fearless shipping and sharp, useful, disruptive builds.
 
