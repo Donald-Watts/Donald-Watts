@@ -18,7 +18,7 @@ Backlash & Forks (community exits)
 New Commons
   ↺ (repeat)
 
-> "Build to be bought, not to last."
+> "Build it to be bought, don't build it to last."
  
  
 ### DM—if you live for fearless shipping and sharp, useful, disruptive builds.
