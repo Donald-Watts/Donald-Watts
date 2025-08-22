@@ -4,17 +4,17 @@
 I build frameworks that keep creative chaos from turning into tech debt.
  
 Innovation
-  ↓
+  ->
 Open Adoption
-  ↓
+  ->
 Platformization (moats, defaults)
-  ↓
+  ->
 Monetize & Enclose (licenses, requirements)
-  ↓
+  ->
 Consolidation (M&A, ecosystem gravity)
-  ↓
+  ->
 Backlash & Forks (community exits)
-  ↓
+  ->
 New Commons
   ↺ (repeat)
 
