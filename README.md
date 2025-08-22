@@ -18,7 +18,8 @@ Backlash & Forks (community exits)
 New Commons
   ↺ (repeat)
 
-> Build to be bought, not to last. The industry is what it's always been, business. Keep building.
+> "Build to be bought, not to last."
+ -In other words: be sharp, useful, and disruptive..
  
 ### DM—if you live for clean architectures and fearless shipping, we’ll vibe.
 
